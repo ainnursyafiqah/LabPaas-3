@@ -1,0 +1,1 @@
+[{"id":"c0bc207e.91eea","type":"rpi-sensehatsim in","z":"2570cd8f.c01072","name":"","motion":false,"env":true,"stick":false,"x":160,"y":160,"wires":[["f5623f2b.6bfcc"]]}]
